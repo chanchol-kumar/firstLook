@@ -6,10 +6,10 @@
 
 
 Skills: 
--💥HTML
--💥CSS
--💥C
--💥C++
+💥HTML 
+💥CSS 
+💥C 
+💥C++ 
 
 - 👯 I’m looking to collaborate on github 
 
