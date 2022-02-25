@@ -1,5 +1,4 @@
-![Computer Programming (newbie)](https://www.canva.com/design/DAE5YGaEH5Y/3dm3vQUdesY_Ic7hSEhydQ/watch?utm_content=DAE5YGaEH5Y&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
-# Hi, my name is Chanchol Kumar Modok
+![](https://document-export.canva.com/QnU8A/DAE5YXQnU8A/2/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220225T025452Z&X-Amz-Expires=57711&X-Amz-Signature=f8f7c7e8198b2ac285a8514215a1561d8c79f1cb7da531d403592a69880ae3a7&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2025%20Feb%202022%2018%3A56%3A43%20GMT)
 ### Computer Programming (newbie)
 
 
