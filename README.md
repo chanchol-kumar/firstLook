@@ -3,7 +3,6 @@
 ### 👯 I’m looking to collaborate on github 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chancholkumar" alt="chancholkumar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chanchol_kumar" target="blank"><img src="https://img.shields.io/twitter/follow/chanchol_kumar?logo=twitter&style=for-the-badge" alt="chanchol_kumar" /></a> </p>
 
